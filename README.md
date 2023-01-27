@@ -1,9 +1,9 @@
 # Facail-Keypoints-Detection
 
-Different machine learning algorithms for facial key-points detection 
+Different machine learning algorithms for facial key-point detection 
 
-Five different Neural Networks' architectures were used. 2 were Fully-Connected NNs while 3 were Convulutional NNs. 
+Five different Neural Networks' architectures were used. 2 were Fully-Connected NNs while 3 were Convolutional NNs. 
 
-The complete docummentation of this project can be found here.
+The complete documentation of this project can be found here.
 
-An example of how the best used algorithm (LeNet-5) works is presented below, where the algorithm found every key-point on my face.
+An example of how the algorithm with the highest performances trained in this project (LeNet-5) works below, where the algorithm found every key point on my face.
