@@ -8,7 +8,7 @@ This work, with title **Comparison of Deep Learning Algorithms for Facial Keypoi
 
 You can cite this paper as:
 ```
-Dodović, M., Vukasović, M., Drašković, D. (2024). Comparison of Deep Learning Algorithms for Facial Keypoints Detection. In: Trajanovic, M., Filipovic, N., Zdravkovic, M. (eds) Disruptive Information Technologies for a Smart Society. ICIST 2023. Lecture Notes in Networks and Systems, vol 872. Springer, Cham. https://doi.org/10.1007/978-3-031-50755-7_12
+Dodović, M., Vukasović, M., Drašković, D. (2024). Comparison of Deep Learning Algorithms for Facial Keypoints Detection. In: Trajanovic, M., Filipovic, N., Zdravkovic, M. (eds) Disruptive Information Technologies for a Smart Society. ICIST 2023. Lecture Notes in Networks and Systems, vol 872. Springer, Cham. [https://doi.org/10.1007/978-3-031-50755-7_12](https://doi.org/10.1007/978-3-031-50755-7_12)
 ```
 with the following BibTeX code:
 ```
